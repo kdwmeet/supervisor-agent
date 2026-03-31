@@ -27,7 +27,7 @@
 * **Web Framework:** Streamlit
 
 ## 4. 프로젝트 구조
-
+```
 supervisor-agent/
 ├── .env                  
 ├── requirements.txt      
@@ -35,7 +35,7 @@ supervisor-agent/
 └── app/
     ├── __init__.py
     └── graph.py          
-
+```
 ## 5. 설치 및 실행 가이드
 
 ### 5.1. 환경 변수 설정
