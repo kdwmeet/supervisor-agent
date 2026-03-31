@@ -59,3 +59,5 @@ uv run streamlit run main.py
 * **작업 종료(FINISH) 검증:** Analyst의 보고서 작성이 완료된 후 제어권을 넘겨받은 관리자가 스스로 목표 달성을 인지하고 FINISH를 선언하여 파이프라인을 정상 종료하는지 점검합니다.
 
 ## 7. 실행 화면
+
+<img width="1513" height="998" alt="스크린샷 2026-03-31 103807" src="https://github.com/user-attachments/assets/7edac42e-5592-46ff-bc6d-350e76dc6e86" />
